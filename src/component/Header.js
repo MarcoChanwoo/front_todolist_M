@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className="Header">
             <div>
-                <h1>(주)호윤상사</h1>
+                <h1>(주)호윤상사_관리자 페이지</h1>
                 <h2>{new Date().toDateString()}</h2>
             </div>
         </div>

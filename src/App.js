@@ -7,8 +7,9 @@ function App() {
     return (
         <div className="App">
             <Header />
-            <div>Todo Editor</div>
             <TodoList />
+            <TodoItem />
+            <TodoItem />
             <TodoItem />
         </div>
     );
